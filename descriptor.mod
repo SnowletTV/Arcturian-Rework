@@ -1,10 +1,10 @@
 version="0.1"
 tags={
-	"Gameplay"
+	"Alternative History"
 	"Balance"
 	"Events"
-	"Alternative History"
+	"Gameplay"
 	"National Focuses"
 }
-name="Arcturian Flavor"
+name="Arcturian Rework"
 supported_version="1.10.4"
